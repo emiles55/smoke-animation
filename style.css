@@ -17,7 +17,7 @@ section:before
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: linear-gradient(to right, #FCF4C9, #FEE3E2, #FBCDF2, #E8BEFA, #ABBFFF, #BBF3C0,#FCF4C9, #FEE3E2, #FBCDF2, #E8BEFA, #ABBFFF, #BBF3C0,#FCF4C9, #FEE3E2, #FBCDF2, #E8BEFA, #ABBFFF, #BBF3C0,#FCF4C9, #FEE3E2, #FBCDF2, #E8BEFA, #ABBFFF, #BBF3C0);
+	background: linear-gradient(45deg, #FCF4C9, #FEE3E2, #FBCDF2, #E8BEFA, #ABBFFF, #BBF3C0,#FCF4C9, #FEE3E2, #FBCDF2, #E8BEFA, #ABBFFF, #BBF3C0,#FCF4C9, #FEE3E2, #FBCDF2, #E8BEFA, #ABBFFF, #BBF3C0,#FCF4C9, #FEE3E2, #FBCDF2, #E8BEFA, #ABBFFF, #BBF3C0);
 	pointer-events: none;
 	mix-blend-mode: color;
 
@@ -63,7 +63,7 @@ h1 span
 		    -ms-transform: rotateY(90deg);
 		     -o-transform: rotateY(90deg);
 		        transform: rotateY(90deg);
-		filter: blur(10px);
+		filter: blur(100px);
 	}
 	100%
 	{
